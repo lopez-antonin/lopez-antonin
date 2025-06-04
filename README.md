@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Je m'appelle Antonin Lopez et j'ai 19 ans<br><br>- Etudiant à l'IUT du Havre en 2e année de BUT informatiqu<br>- Grimpeur sur mon temps libre</p>
+<p align="left">Je m'appelle Antonin Lopez et j'ai 19 ans<br><br>- Etudiant à l'IUT du Havre en 2e année de BUT informatique<br>- Grimpeur sur mon temps libre</p>
 
 ###
 
